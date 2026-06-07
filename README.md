@@ -1,4 +1,4 @@
-# 👋 olá, me chamo Luiz Paulo de Almeida
+# 👋 Olá, me chamo Luiz Paulo de Almeida
 
 📚 Estudante de Engenharia de Software na [Anhanguera Educacional](https://www.anhanguera.com/)</br>
 🖥️ Atualmente estou focando em estudos para me aprofundar em Java, Springboot, MySQL e Git focando em Back-end.</br>
