@@ -4,25 +4,33 @@
 🖥️ Atualmente estou focando em estudos para me aprofundar em Java, Springboot, MySQL, Git, Unity, C#, Game Development focando em Back-end e GameDev.</br>
 🌎 Guarulhos, São Paulo - Brasil</br>
 
-# Socials
+## Socials
 <div> 
   <a href="https://www.instagram.com/ludwig_iso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luiz.p.fraga10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-paulo-almeida-7b0b36234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# 🤖 Tecnologias
-![Java](https://img.shields.io/badge/Java-192436?style=for-the-badge&logo=openjdk)
+## 🤖 Tecnologias
+![Java](https://img.shields.io/badge/Java-192436?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![C#](https://img.shields.io/badge/C%23-192436?style=for-the-badge&logo=c-sharp)
 ![TYPESCRIPT](https://img.shields.io/badge/Typescript-192436?style=for-the-badge&logo=typescript)
 ![MYSQL](https://img.shields.io/badge/Mysql-192436?style=for-the-badge&logo=mysql&logoColor=6E99F5)
 
-# 🔧Ferramentas
+## 🔧Ferramentas
+
 ![VSCODE](https://img.shields.io/badge/vscode-192436?style=for-the-badge&logo=visualstudiocode)
 ![GIT](https://img.shields.io/badge/Git-192436?style=for-the-badge&logo=git)
 ![GITHUB](https://img.shields.io/badge/Github-192436?style=for-the-badge&logo=github)
 ![POSTMAN](https://img.shields.io/badge/Postman-192436?style=for-the-badge&logo=postman)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-192436?style=for-the-badge&logo=intellij-idea)
-![Unity](https://img.shields.io/badge/unity-192436?style=for-the-badge&logo=unity&logoColor=white)![Spring](https://img.shields.io/badge/spring-192436?style=for-the-badge&logo=spring)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-192436?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+![Unity](https://img.shields.io/badge/unity-192436?style=for-the-badge&logo=unity&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-192436?style=for-the-badge&logo=spring)
 
+## Github Stats
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizAlmeidaF&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizAlmeidaF&theme=github_dark" alt="Top languages" />
+</p>
 
